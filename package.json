@@ -2,7 +2,7 @@
   "name": "burger-builder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://prayvakta.github.io/buildyourburger",
+  "homepage": "https://prayvakta.github.io/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "prop-types": "^15.7.2",
